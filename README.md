@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">Once immersed in engineering, now immersed in pixels</h3>
 
